@@ -1,3 +1,2 @@
-# git-first
-First repo
-Day 0 Odin Project let's go!
+# The Odin Project
+Repo to house all of my TOP code and projects.
