@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #e7d7c1;
+    width: 60vw;
+    padding: 10px 20px;
+}
+
+h1 {
+    color: #8c1c13;
+    font-size: 2.5rem;
+}
+
+h2, h3, h4, strong {
+    color: #bf4342;
+}
+
+p {
+    color: #443631;
+}
+
+a {
+    color: #735751;
+    font-weight: 700;
+}
+
+ul li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+.steps {
+    line-height: 1.6rem;
+    text-wrap: pretty;
+}
