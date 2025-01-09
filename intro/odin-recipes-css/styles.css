@@ -4,21 +4,39 @@
 
 body {
     background-color: #e7d7c1;
-    width: 60vw;
-    padding: 10px 20px;
+}
+
+.container {
+    width: 800px;
+    margin: 16px auto;
 }
 
 h1 {
     color: #8c1c13;
-    font-size: 2.5rem;
+    font-size: 3rem;
+    font-weight:900;
 }
 
 h2, h3, h4, strong {
     color: #bf4342;
+    font-weight: 700;
 }
 
 p {
     color: #443631;
+    width: 72ch;
+}
+
+nav a {
+    display: block;
+    width: 400px;
+    margin: 24px auto;
+    border-radius: 8px;
+    background-color: #735751;
+    text-align: center;
+    text-decoration: none;
+    padding: 16px 32px;
+    color: #fff;
 }
 
 a {
@@ -37,5 +55,5 @@ li {
 
 .steps {
     line-height: 1.6rem;
-    text-wrap: pretty;
+    width: 72ch;
 }
